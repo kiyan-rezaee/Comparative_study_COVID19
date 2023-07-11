@@ -1,0 +1,13 @@
+703964.0 BRA-South America
+161879.0 IDN-Asia
+3138.0 NZL-Oceania
+399649.0 RUS-Europe
+102595.0 ZAF-Africa
+1127152.0 USA-North America
+-----------------------------------------
+21.0 BTN-Asia
+1.0 TUV-Oceania
+2.0 SPM-North America
+413.0 GUF-South America
+28.0 FRO-Europe
+15.0 BDI-Africa
